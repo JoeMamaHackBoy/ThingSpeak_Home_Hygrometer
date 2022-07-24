@@ -1,12 +1,12 @@
 // Use this file to store all of the private credentials 
 // and connection details
 
-#define SECRET_SSID "WiFi-ACFF"		// replace MySSID with your WiFi network name
-#define SECRET_PASS "45351815"	// replace MyPassword with your WiFi password
+#define SECRET_SSID ""		// replace MySSID with your WiFi network name
+#define SECRET_PASS ""	// replace MyPassword with your WiFi password
 
 #define SECRET_CH_ID 1765215			// replace 0000000 with your channel number
-#define SECRET_WRITE_APIKEY "D406ORZDD19PKJ9K"   // replace XYZ with your channel write API Key
-#define SECRET_READ_APIKEY_COUNTER "0E4ZH5MPMBOQEM0Y" //replace XYZ with your read API Key for reading the channel
+#define SECRET_WRITE_APIKEY "XYZ"   // replace XYZ with your channel write API Key
+#define SECRET_READ_APIKEY_COUNTER "XYZ" //replace XYZ with your read API Key for reading the channel
 
 
 /* ThingSpeak Certificate Fingerprint, Expiration Date: August 3, 2022 at 8:00:00 AM EST 
